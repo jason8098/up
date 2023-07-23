@@ -13,14 +13,15 @@ Imagine You missed one letter and got Syntax Error. Sheesh! That's awful!
 # So What's UP?
 If somebody asks you "What's UP?", What should we say?<br>
 Ovbiously, We can proudly say : 
-
+<br><br>
 "UP is a the most world's useless program that makes you typing update command more efficient by creating a shortcut to the update command so that ya'll lazy nixxas don't have to press bunch of baCKsPaCEs again."
 
 # Well, ok. so how do I install and use it?
 Usually it takes 10~20 Seconds typing the update command. <br>
 Aaaand it takes about a minute to install UP. <br>
 So I don't recommend you to install this. <br>
-Also why are you reading this useless shit? It takes almost 2-3 minutes lmao.You could just go and type the command in that time.
+Also why are you reading this useless shit? It takes almost 2-3 minutes lmao.
+<br>You could just go and type the command in that time.<br>
 But if you still want, I won't bother you. So go ahead and try to save the time by spending MORE TIME!
 
 ## 1. Clone the repo.

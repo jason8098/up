@@ -7,7 +7,7 @@ I know always it is lazy to type this specific command :
     sudo apt update && apt upgrade -y && sudo apt-get dist-upgrade -y
 
 Imagine You missed one letter and got Syntax Error. Sheesh! That's awful!
-<br>But this make your life better than ever. Because it saves time!
+<br>But this makes your life better than ever. Because it saves time!
 <br>It also maximises your laziness!
 
 # So What's UP?

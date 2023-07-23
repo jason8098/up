@@ -14,7 +14,7 @@ Imagine You missed one letter and got Syntax Error. Sheesh! That's awful!
 If somebody asks you "What's UP?", What should we say?<br>
 Ovbiously, We can proudly say : 
 
-    "UP is a the most world's useless program that makes you typing update command more efficient by creating a shortcut to the update command so that ya'll lazy nixxas don't have to press bunch of baCKsPaCEs again."
+"UP is a the most world's useless program that makes you typing update command more efficient by creating a shortcut to the update command so that ya'll lazy nixxas don't have to press bunch of baCKsPaCEs again."
 
 # Well, ok. so how do I install and use it?
 Usually it takes 10~20 Seconds typing the update command. <br>

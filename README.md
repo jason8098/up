@@ -4,7 +4,7 @@ One click package updater for LaZY peoples.
 # Simple but Useful but also Useless and Efficient!
 I know always it is lazy to type this specific command :
 
-    sudo apt update && sudo apt upgrade -y 
+    sudo apt update && apt upgrade -y && sudo apt-get dist-upgrade -y
 
 Imagine You missed one letter and got Syntax Error. Sheesh! That's awful!
 <br>But this make your life better than ever. Because it saves time!

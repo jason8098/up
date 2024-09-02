@@ -34,7 +34,7 @@ But if you still want, I won't bother you. So go ahead and try to save the time 
 
 ## 3. Grant Permission.
 
-    chmod 777 up
+    chmod +x up
 
 ## 4. Move it to bin folder.
 
